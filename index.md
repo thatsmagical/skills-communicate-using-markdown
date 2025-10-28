@@ -8,3 +8,7 @@
 def add(a,b):
   return a+b
 ```
+
+- [x] Hit that sproingle
+- [x] Hit that doingle
+- [ ] Study
